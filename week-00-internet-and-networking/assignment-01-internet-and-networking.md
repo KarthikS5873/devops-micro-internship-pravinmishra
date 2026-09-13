@@ -34,7 +34,7 @@ Replace `task-1-chatgpt.png` with your actual screenshot file name.
 
 ## What I Learned (2–3 lines)
 
-Add your answer here...
+Here I learned how to use the chatgpt efficent by give the correct prompt according to our understanding of the concept where in this chat I have cleared that how the Internet are used and how the network is working around the world. Also, I have see about how to start the career with Devops.
 
 ---
 
@@ -59,7 +59,7 @@ Write a short explanation (**100–150 words**) that includes:
 
 ## Answer
 
-Add your answer here...
+When we try to access the epicreads for india which is hosted in finland, where the request travels thought internet using packet switching, where data is divided into small packets and it send though different networks and can follow any path. The epicreads server has a unique IP address, which helps the packet to reach the destination. The TCP/IP protocol is used to communicate, where IP handles the addressing and routing, while TCP provides reliable and for HTTPS connection. The browser connects to the server using HTTP/HTTPS. HTTPS uses TLS encryption to protect data like passwords and card details. The server processes the request and sends the book page to the user, making epicreads accessible worldwide.
 
 ---
 
@@ -91,7 +91,7 @@ EpicReads bookstore has two application versions:
 
 Save your diagram image in the `screenshots` folder and update the file name below.
 
-![Application Architecture Diagram](screenshots/task-3-diagram.png)
+![Application Architecture Diagram](screenshots/task-2-Architecture.png)
 
 
 Replace `task-3-diagram.png` with your actual diagram file name.
@@ -102,18 +102,18 @@ Replace `task-3-diagram.png` with your actual diagram file name.
 
 ### Frontend
 
-* Add your answer here...
-* Add your answer here...
+* React
+* HTML/CSS
 
 ### Backend
 
-* Add your answer here...
-* Add your answer here...
+* Epress.js
+* Spring Boot
 
 ### Database
 
-* Add your answer here...
-* Add your answer here...
+* MySQL
+* MongoDB
 
 ---
 
@@ -142,7 +142,7 @@ In **50–100 words**, explain in your own words:
 
 ## Answer
 
-Add your answer here...
+DNS(Domain Name System) converts the human-reable domain name into IP address that computer use to communicate. User can't remember ip address so the DNS create. For epicreads we should use A record because A record is used for IPv4 address maping to the domain name epicreads.com.
 
 ---
 
@@ -178,7 +178,7 @@ ls
 
 Save your screenshot in the `screenshots` folder and update the file name below.
 
-![VS Code Setup Screenshot](screenshots/task-5-vscode.png)
+![VS Code Setup Screenshot](screenshots/task-3-vscode.png)
 
 
 Replace `task-5-vscode.png` with your actual screenshot file name.
@@ -237,7 +237,7 @@ Replace `YOUR-GITHUB-USERNAME` with your GitHub username — that link is your p
 Paste your LinkedIn post URL here:
 
 ```text
-Add your URL here...
+https://www.linkedin.com/posts/karthikrajan-s_dmibypravinmishra-agenticai-devops-activity-7504986131667570688-ZilL?utm_source=share&utm_medium=member_desktop&rcm=ACoAAErizNgBkGJGNQc9ld9ElxAcYVLEeFmsO7o
 ```
 
 ---
@@ -246,7 +246,22 @@ Add your URL here...
 
 Paste the full text of your LinkedIn post here:
 
-Add your post content here...
+I have started learning DevOps with DMI (DevOps Micro Internship) Campus — Agentic AI Track 
+Completed Week 00 — Internet & Networking 
+This week, I learned:
+✅ How to use ChatGPT effectively with proper prompts
+✅ Internet fundamentals — Packet Switching, IP, TCP/IP, HTTP/HTTPS
+✅ Two-tier & Three-tier Application Architecture
+✅ DNS and A Records
+✅ VS Code setup and terminal commands
+✅ Documenting my learning journey through GitHub and LinkedIn
+Week 00 helped me build a strong foundation in DevOps. Excited to learn more and improve my skills in the upcoming weeks! 
+
+Special thanks to Pravin Mishra and Anjana Muthunayake for their valuable guidance and support throughout this learning journey. 
+
+P.S. This post is part of the DevOps Micro Internship (DMI) — Campus — by Pravin Mishra. My graded progress is public: https://lnkd.in/d6F8SRJr · Start your DevOps journey: https://lnkd.in/dQRN7Hsw
+
+hashtag#DMIByPravinMishra hashtag#AgenticAI hashtag#DevOps hashtag#LearningJourney
 
 ---
 
@@ -254,19 +269,19 @@ Add your post content here...
 
 ### What did you find easy?
 
-Add your answer here...
+I found IP address, port, DNS, HTTP and HTTPS concepts easy to understand. Learning how a domain connects to an IP address using an A record was also easy with the EpicReads example.
 
 ---
 
 ### What was difficult?
 
-Add your answer here...
+I found TCP a little difficult. Understanding how all these concepts work together in a real-world application was challenging.
 
 ---
 
 ### What will you improve next week?
 
-Add your answer here...
+Next week, I will improve my Linux and networking skills by practising more commands.
 
 ---
 

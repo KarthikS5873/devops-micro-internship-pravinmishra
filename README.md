@@ -70,8 +70,8 @@ This is not a course. It is an internship-style program — real deployments, re
 Week 00 → Internet & Networking Basics
 [![Week 00 – Networking](./badges/week-00.svg)](./week-00-internet-and-networking/)
 
-<!-- Week 01 → Success Mindset -->
-<!-- [![Week 01 – Mindset](./badges/week-01.svg)](./week-01-success-mindset/) -->
+Week 01 → Success Mindset
+[![Week 01 – Mindset](./badges/week-01.svg)](./week-01-success-mindset/)
 
 <!-- Week 02 → Agentic AI with Claude Code -->
 <!-- [![Week 02 – Agentic AI](./badges/week-02.svg)](./week-02-agentic-ai/) -->
@@ -130,7 +130,7 @@ Week 00 → Internet & Networking Basics
 | Week | Topic | Status | Assignment | LinkedIn Post | Blog Post |
 |------|-------|--------|------------|---------------|-----------|
 | 00 | Internet & Networking Basics | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/karthikrajan-s_dmibypravinmishra-agenticai-devops-activity-7504986131667570688-ZilL?utm_source=share&utm_medium=member_desktop&rcm=ACoAAErizNgBkGJGNQc9ld9ElxAcYVLEeFmsO7o | https://medium.com/@karthikrajan5873/my-devops-learning-journey-week-00-8dad9d34b764?sharedUserId=karthikrajan5873 |
-| 01 | Success Mindset | 🔄 In Progress | ⏳ Pending | — | — |
+| 01 | Success Mindset | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/karthikrajan-s_dmi-devops-micro-internship-with-agentic-activity-7506049821791870977-fW0o?utm_source=share&utm_medium=member_desktop&rcm=ACoAAErizNgBkGJGNQc9ld9ElxAcYVLEeFmsO7o | https://medium.com/@karthikrajan5873/karthikrajan-2-0-496cadea45d2 |
 | 02 | Agentic AI with Claude Code | ⬜ Not Started | ⏳ Pending | — | — |
 | 03 | Linux & Bash for DevOps | ⬜ Not Started | ⏳ Pending | — | — |
 | 04 | Git & GitHub | ⬜ Not Started | ⏳ Pending | — | — |

@@ -33,7 +33,7 @@ You will reuse this in later weeks. So do it properly once.
 
 ## Answer
 
-Add your answer here...
+I believe money makes our life efficient these day because on our day-to-day life we start our life with money and also we end our life with money. I think Money make the people to respect them but all people does disgree with statement where in the life we cannot able to surive without money. So, I think money make more sense these days.
 
 ---
 
@@ -55,11 +55,11 @@ Write each truth in this format:
 
 ### Truth
 
-Add your answer here...
+Practical experience improve the understanding what we learned through the theory.
 
 ### Evidence from my life
 
-Add your answer here...
+Were first we learn the theory part only in the end semster exam in our acdemics but we could partically implement it and learn we learn as concept but we understand it till bit only but once we have the partical experience about the concept we can easy learn the concept and efficently. 
 
 ---
 
@@ -67,11 +67,11 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+Consistent effort produces better long-term progress than studying only when motivation is high
 
 ### Evidence from my life
 
-Add your answer here...
+I have worked on different technical skills, including Java, DSA, React, Node.js, AWS, and DevOps. Whenever I practiced regularly, I was able to understand concepts and complete tasks more effectively. When I delayed learning or depended only on motivation, my progress became slower. This showed me that a consistent routine is more reliable than waiting until I feel motivated.
 
 ---
 
@@ -79,11 +79,11 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+Completing a project creates more useful career evidence than simply saying that I know a technology
 
 ### Evidence from my life
 
-Add your answer here...
+I worked on projects such as a Turf Booking App, and RAG Chatbot. Building these projects required me to solve errors, connect frontend and backend systems, and work with databases. I also participated in hackathons and received prizes, which gave me experience in building solutions under time constraints. These results showed me that projects and documented work provide practical proof of my skills
 
 ---
 
@@ -153,13 +153,33 @@ Hashtags:
 
 ## Your Article
 
-Add your answer here...
+## Karthikrajan 2.0
+
+By 2030, Karthikrajan had become a Cloud Engineer working at a reputed MNC. A few years earlier, he was a college student trying to understand where his career would take him. He had many interests in technology, but over time, AWS Cloud and DevOps became the main direction of his professional journey.
+
+What made him different was his interest in learning through practice. He was not satisfied with simply knowing the definition of a technology. He wanted to understand how applications worked, how servers communicated, how cloud infrastructure was managed, and what happened when a user accessed an application. This curiosity helped him build a stronger foundation in networking, system architecture, and cloud computing.
+
+During his college years, he worked on different projects, participated in hackathons, and gained hands-on experience through an AWS internship. These experiences helped him move from writing code for assignments to building applications that solved practical problems. His GitHub profile gradually became a collection of projects, experiments, and technical work that showed his growth as an engineer.
+
+By 2030, he had worked with AWS services, Docker, Kubernetes, CI/CD pipelines, and infrastructure automation. He had built and deployed applications, solved technical issues, and contributed to real-world projects. His certifications and technical blogs supported the knowledge he gained through experience.
+
+His achievements were not limited to his job. He continued helping students who were beginning their careers in technology. Since he had once struggled with choosing skills, preparing for placements, and understanding projects, he knew how valuable guidance could be. He shared his experiences and encouraged others to learn through practical work.
+
+Financial independence had also become an important part of his life. He earned well enough to support his family, take care of himself, and enjoy the freedom that comes with financial stability. He understood that success was not just about a salary or a job title, but also about peace of mind and the ability to live life on his own terms.
+
+He built a comfortable life in Coimbatore or Hyderabad, balancing his career with family, health, and personal growth.
+
+The Karthikrajan of 2026 was still learning, making mistakes, and figuring out his future. He did not have everything planned. But he kept showing up, learning new things, and taking small steps forward.
+
+By 2030, those small steps had created a life he was proud of.
+
+Karthikrajan 2.0 was not a completely different person. He was the result of everything his younger self had learned, experienced, and refused to give up on.
 
 ### Public Link
 
 Paste your link here:
 
-`Add your URL here`
+https://medium.com/@karthikrajan5873/karthikrajan-2-0-496cadea45d2
 
 ---
 
@@ -183,7 +203,7 @@ This is about self-awareness, not judgment.
 
 ### Answer Format
 
-**Yes / No**
+**Yes**
 
 If Yes:
 
@@ -191,7 +211,7 @@ If Yes:
 
 ## Answer
 
-Add your answer here...
+When I have taken shortcuts in learning or completing a task instead of doing it properly, I have felt a mixture of guilt and regret. I knew that finishing something quickly was not always the same as understanding it correctly. Sometimes I felt stressed because I was aware that I might not be able to explain the work if someone asked me questions. It also reduced my confidence because I knew I had not given my best effort.
 
 ---
 
@@ -217,16 +237,16 @@ Choose books that improve:
 
 ## Book List
 
-1. Add your answer here...
-2. Add your answer here...
-3. Add your answer here...
-4. Add your answer here...
-5. Add your answer here...
-6. Add your answer here...
-7. Add your answer here...
-8. Add your answer here...
-9. Add your answer here...
-10. Add your answer here...
+1. The Psychology of Money — Morgan Housel
+2. Atomic Habits — James Clear
+3. Rich Dad Poor Dad — Robert T. Kiyosaki
+4. The Intelligent Investor — Benjamin Graham
+5. Ikigai: The Japanese Secret to a Long and Happy Life — Héctor García and Francesc Miralles
+6. The Warren Buffett Way — Robert G. Hagstrom
+7. Mindset — Carol S. Dweck
+8. Deep Work — Cal Newport
+9. Lateral Thinking — Edward de Bono
+10. The 7 Habits of Highly Effective People — Stephen R. Covey
 
 ---
 
@@ -255,16 +275,11 @@ List topics only. No need to share numbers.
 
 ## My Metrics
 
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
+* My screen time
+* Projects works
+* Deep research about the current job market
+* My learning for the new tech stack
+* Healthly foods
 
 ---
 
@@ -286,11 +301,11 @@ Examples:
 
 ### Did You Do It?
 
-**Yes / No**
+**Yes**
 
 Answer:
 
-Add your answer here...
+I wrote down my current responsibilities, college work, AWS and DevOps learning goals, DMI assignments, placement preparation, DSA practice, project ideas, pending tasks, and personal commitments. I also listed the things that distract me and the skills I need to improve. This helped me organize my thoughts and understand what requires attention instead of keeping everything in my mind.
 
 ---
 
@@ -308,7 +323,10 @@ Example:
 
 #### My Weekly Routine
 
-Add your answer here...
+Mon-Wed: 60 min work
+Thu: 3 hrs session in DMI
+Fri: 60 min work
+Sat-Sun: 120 min work
 
 ---
 
@@ -316,11 +334,14 @@ Add your answer here...
 
 #### When Will You Do DMI Work? (Days + Time)
 
-Add your answer here...
+I’ll mainly be working on DMI during the weekends, as my weekdays are occupied with college and placement preparation. However, I’ll try to dedicate an extra day during the week whenever I have additional work or tasks from DMI.
 
 #### How Many Sessions Per Week?
 
-Add your answer here...
+2 sessions per week
+
+Thusday - 3 hrs
+Sunday - 8 hrs
 
 ---
 
@@ -334,7 +355,9 @@ Examples:
 
 #### My Distraction Rules
 
-Add your answer here...
+* I will keep my phone away from my study table during deep work sessions.
+* I will avoid social media until I complete my planned learning task.
+* I will avoid switching between multiple technologies during one session.
 
 ---
 
@@ -342,28 +365,28 @@ Add your answer here...
 
 ### Biggest insight I got about myself this week
 
-Add your answer here...
+I understood that my career growth depends on the systems and habits I follow every day, not just my motivation or goals. I have a strong interest in technology, but I need consistent execution and documentation to turn it into real progress. I also realized that I learn better by building and experimenting with things practically.
 
 ### My biggest weakness/loop I noticed
 
-Add your answer here...
+My biggest weakness is trying to learn too many technologies or topics at the same time. I sometimes get distracted by new tools or resources, which affects my focus and delays completion. I need to focus on one main learning path, complete it, and then move to the next topic.
 
 ### One system I will implement from this week (exact habit + time)
 
-Add your answer here...
+I will follow a daily 60-minute focused learning session from Monday to Friday, from 8:00 PM to 9:00 PM. I will use this time for AWS, DevOps, DSA, or my priority tasks without social media. After each session, I will note what I learned, completed, and need to do next. Every Sunday, I will review my progress and plan for the next week.
 
 ### LinkedIn Post
 
 Paste your LinkedIn post link here:
 
-`Add your URL here`
+https://www.linkedin.com/posts/karthikrajan-s_dmi-devops-micro-internship-with-agentic-activity-7506049821791870977-fW0o?utm_source=share&utm_medium=member_desktop&rcm=ACoAAErizNgBkGJGNQc9ld9ElxAcYVLEeFmsO7o
 
 ---
 
 ## 10. Proof of Work
 
-- LinkedIn Post URL: **ADD LINK HERE**  
-- Blog / Medium : **ADD LINK HERE**  
+- LinkedIn Post URL: https://www.linkedin.com/posts/karthikrajan-s_dmi-devops-micro-internship-with-agentic-activity-7506049821791870977-fW0o?utm_source=share&utm_medium=member_desktop&rcm=ACoAAErizNgBkGJGNQc9ld9ElxAcYVLEeFmsO7o
+- Blog / Medium : https://medium.com/@karthikrajan5873/karthikrajan-2-0-496cadea45d2 
 
 ---
 
@@ -386,4 +409,4 @@ It helps learners build strong DevOps foundations with hands-on experience.
 
 ---
 
-*This submission is part of DevOps Micro Internship (DMI) — Agentic AI Track*
+*This submission is part of DevOps Micro Internship (DMI) — Agentic AI Track*!

@@ -13,7 +13,7 @@
 
 ## 2. Objective
 
-Install and authenticate Claude Code CLI and VS Code extension, fork and clone the course starter [repository](https://github.com/pravinmishraaws/Ultimate-Agentic-DevOps-with-Claude-Code), and observe how the Agentic Loop works before any configuration is in place.
+Install and authenticate Claude Code CLI, fork and clone the course starter [repository](https://github.com/pravinmishraaws/Ultimate-Agentic-DevOps-with-Claude-Code), and observe how the Agentic Loop works before any configuration is in place.
 
 ---
 
@@ -50,7 +50,7 @@ Every DevOps engineer working with agentic AI starts the same way — setting up
 - Git installed and configured (Verify using `git --version`)
 - GitHub account
 - VS Code installed (Vrify using `code --version`)
-- Claude subscription (Pro plan minimum)
+- Claude subscription 
 
 ---
 
